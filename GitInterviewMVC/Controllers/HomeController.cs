@@ -15,7 +15,7 @@ namespace GitInterviewMVC.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page.git hub";
 
             return View();
         }
